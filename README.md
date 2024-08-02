@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="link-to-your-gif.gif" alt="Project Demo">
+  <img src="https://github.com/harshasenchati/Tic-Tac-Toe/blob/main/tic-tac-toe-record.gif">
 </div>
 
 ---
@@ -18,10 +18,8 @@
 - [💻 Technologies Used](#technologies-used)
 - [⚙️ Setup](#setup)
 - [🚀 How to Play](#how-to-play)
-- [🗂 Project Structure](#project-structure)
-- [🤝 Contributing](#contributing)
 - [📜 License](#license)
-- [📬 Contact](#contact)
+
 
 ## Introduction
 
